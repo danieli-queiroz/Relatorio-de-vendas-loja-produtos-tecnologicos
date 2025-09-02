@@ -26,10 +26,11 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a a
 - Excel/CSV: simulação e organização da base de dados utilizada.  
 
 ## Estrutura do Projeto  
-├── dataset/ # Base de dados simulada (CSV)  
-├── dashboard/ # Arquivo do Power BI (.pbix)  
-└── README.md # Documentação do projeto  
+├── README.md # Documentação do projeto
+├── Relatório/ # Arquivo do Power BI (.pbix)  
+└── dataset_vendas_2024_anual/ # Base de dados simulada (CSV)
 
+dataset/ # Base de dados simulada (CSV)  
 ## Conclusões e Insights  
 - Produtos de maior valor agregado foram responsáveis pela maior parte do faturamento.  
 - O ticket médio elevado indica que os clientes tendem a adquirir itens de maior valor unitário.  
@@ -40,7 +41,8 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a a
 - Incluir análise de margem de lucro para complementar a visão de faturamento.  
 - Criar comparativo de desempenho ano a ano para identificar tendências de crescimento.  
 - Ampliar interatividade do dashboard com filtros adicionais (ex.: categoria, região, período).  
-- Padronizar cores e categorias para facilitar a leitura e consistência visual.  
+- Padronizar cores e categorias para facilitar a leitura e consistência visual.
+- Continuar aprimorando minhas habilidades em análise de dados!
 
 ---
 
