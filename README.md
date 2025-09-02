@@ -1,6 +1,6 @@
 # Análise de Vendas em 2024
 
-Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a análise de vendas anuais de uma loja fictícia. O objetivo é demonstrar a aplicação prática de análise de dados, construção de indicadores de desempenho e data storytelling.  
+Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a análise de vendas do ano 2024 de uma loja fictícia. O objetivo é demonstrar a aplicação prática de análise de dados, construção de indicadores de desempenho e data storytelling.  
 
 ## Objetivo  
 - Aplicar conceitos de análise de dados em um cenário de vendas.  
