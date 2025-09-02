@@ -1,0 +1,101 @@
+﻿ID_Venda,Data_Venda,Produto,Categoria,Cidade,Vendedor,Quantidade,Preco_Unitario,Valor_Total
+1,2024-01-01,Mouse,Móveis,Curitiba,Juliana,8,4802,38416
+2,2024-01-03,Teclado,Periféricos,Curitiba,Paulo,9,211,1899
+3,2024-01-05,Cadeira Gamer,Acessórios,Curitiba,Paulo,1,4186,4186
+4,2024-01-08,Notebook,Móveis,Belo Horizonte,Juliana,9,559,5031
+5,2024-01-12,Smartphone,Periféricos,Belo Horizonte,Carlos,1,3573,3573
+6,2024-01-15,Cadeira Gamer,Móveis,Rio de Janeiro,Paulo,5,3779,18895
+7,2024-01-19,Impressora,Acessórios,Belo Horizonte,Mariana,8,1639,13112
+8,2024-01-26,Cadeira Gamer,Periféricos,Salvador,Mariana,9,4732,42588
+9,2024-01-29,Impressora,Acessórios,Curitiba,Fernanda,7,3775,26425
+10,2024-02-06,Impressora,Periféricos,Curitiba,Fernanda,9,3016,27144
+11,2024-02-07,Monitor,Eletrônicos,Rio de Janeiro,Mariana,3,526,1578
+12,2024-02-12,Monitor,Móveis,Porto Alegre,Ana,4,2964,11856
+13,2024-02-18,Impressora,Periféricos,Curitiba,Juliana,8,4662,37296
+14,2024-02-19,Fone de Ouvido,Eletrônicos,Porto Alegre,Paulo,5,1690,8450
+15,2024-02-21,Cadeira Gamer,Móveis,Brasília,Ana,4,4953,19812
+16,2024-02-28,HD Externo,Eletrônicos,Salvador,Ricardo,9,3371,30339
+17,2024-02-29,Mouse,Móveis,Porto Alegre,Juliana,3,3017,9051
+18,2024-03-02,Notebook,Eletrônicos,São Paulo,Mariana,4,3453,13812
+19,2024-03-04,Teclado,Acessórios,Belo Horizonte,Paulo,5,1483,7415
+20,2024-03-07,Impressora,Móveis,Salvador,João,9,481,4329
+21,2024-03-10,Impressora,Eletrônicos,Rio de Janeiro,Ricardo,1,2137,2137
+22,2024-03-16,Fone de Ouvido,Acessórios,Belo Horizonte,Paulo,1,1826,1826
+23,2024-03-24,Mesa Escritório,Acessórios,Porto Alegre,Carlos,3,2217,6651
+24,2024-03-25,Teclado,Eletrônicos,Rio de Janeiro,Ricardo,1,2186,2186
+25,2024-03-26,Fone de Ouvido,Eletrônicos,Porto Alegre,Ricardo,2,783,1566
+26,2024-03-31,Impressora,Periféricos,São Paulo,Paulo,6,3748,22488
+27,2024-04-03,Smartphone,Periféricos,Porto Alegre,Paulo,6,2775,16650
+28,2024-04-06,Smartphone,Periféricos,Rio de Janeiro,João,1,678,678
+29,2024-04-08,Fone de Ouvido,Periféricos,São Paulo,Mariana,4,4496,17984
+30,2024-04-09,Mouse,Móveis,São Paulo,Carlos,3,3554,10662
+31,2024-04-17,Teclado,Eletrônicos,Porto Alegre,João,1,2691,2691
+32,2024-04-26,Mesa Escritório,Móveis,Porto Alegre,Mariana,9,3189,28701
+33,2024-04-27,Mouse,Eletrônicos,Belo Horizonte,João,9,415,3735
+34,2024-04-29,Monitor,Eletrônicos,Rio de Janeiro,Ricardo,7,1286,9002
+35,2024-05-01,Notebook,Periféricos,Rio de Janeiro,João,2,2202,4404
+36,2024-05-04,HD Externo,Periféricos,Brasília,Paulo,3,3225,9675
+37,2024-05-06,Teclado,Periféricos,Salvador,Paulo,7,1681,11767
+38,2024-05-12,Fone de Ouvido,Periféricos,Porto Alegre,Paulo,4,2656,10624
+39,2024-05-13,Smartphone,Acessórios,São Paulo,Paulo,6,679,4074
+40,2024-05-19,Smartphone,Periféricos,São Paulo,Ana,8,3841,30728
+41,2024-05-24,HD Externo,Móveis,Belo Horizonte,Mariana,1,4621,4621
+42,2024-05-30,Monitor,Acessórios,Fortaleza,João,4,2121,8484
+43,2024-06-11,Teclado,Periféricos,Brasília,João,9,4203,37827
+44,2024-06-13,Mouse,Móveis,São Paulo,Ricardo,7,3273,22911
+45,2024-06-14,Mouse,Móveis,Belo Horizonte,Juliana,2,2004,4008
+46,2024-06-17,Smartphone,Periféricos,Curitiba,Juliana,2,4148,8296
+47,2024-06-21,Cadeira Gamer,Eletrônicos,Curitiba,Paulo,3,4035,12105
+48,2024-06-22,Cadeira Gamer,Eletrônicos,Belo Horizonte,João,6,2025,12150
+49,2024-06-25,Smartphone,Móveis,Salvador,Mariana,2,2974,5948
+50,2024-06-26,Teclado,Eletrônicos,Curitiba,Ricardo,8,4381,35048
+51,2024-06-29,Teclado,Periféricos,Belo Horizonte,Fernanda,9,3077,27693
+52,2024-07-03,Notebook,Periféricos,Belo Horizonte,João,4,2238,8952
+53,2024-07-05,Mouse,Periféricos,Brasília,Ricardo,4,1000,4000
+54,2024-07-09,Teclado,Eletrônicos,Fortaleza,Fernanda,5,3980,19900
+55,2024-07-10,Notebook,Móveis,Salvador,Ana,6,1695,10170
+56,2024-07-15,Smartphone,Eletrônicos,Porto Alegre,Ana,3,4330,12990
+57,2024-07-26,Mouse,Periféricos,Fortaleza,Mariana,4,2617,10468
+58,2024-07-30,Smartphone,Periféricos,Salvador,Juliana,3,1279,3837
+59,2024-07-31,Mouse,Móveis,Belo Horizonte,Ana,8,1082,8656
+60,2024-08-02,Cadeira Gamer,Móveis,Rio de Janeiro,Fernanda,5,324,1620
+61,2024-08-03,Impressora,Móveis,Curitiba,Fernanda,6,2853,17118
+62,2024-08-11,Mouse,Móveis,São Paulo,João,1,4224,4224
+63,2024-08-12,Impressora,Móveis,Curitiba,Ana,7,3788,26516
+64,2024-08-13,Fone de Ouvido,Móveis,Rio de Janeiro,Ricardo,4,1785,7140
+65,2024-08-18,Teclado,Periféricos,Fortaleza,Fernanda,5,1069,5345
+66,2024-08-19,Notebook,Móveis,Porto Alegre,Ana,8,1492,11936
+67,2024-08-20,Impressora,Móveis,Salvador,Carlos,6,1939,11634
+68,2024-09-01,Impressora,Eletrônicos,Brasília,João,7,3994,27958
+69,2024-09-05,Fone de Ouvido,Acessórios,Fortaleza,Mariana,2,4555,9110
+70,2024-09-06,Mouse,Periféricos,Fortaleza,Paulo,8,2854,22832
+71,2024-09-17,Monitor,Periféricos,Porto Alegre,Ana,2,3587,7174
+72,2024-09-19,Notebook,Acessórios,Brasília,Carlos,3,2611,7833
+73,2024-09-20,Mouse,Acessórios,Curitiba,Ricardo,2,3483,6966
+74,2024-09-23,Impressora,Eletrônicos,Curitiba,Fernanda,8,815,6520
+75,2024-09-25,Monitor,Móveis,São Paulo,Ricardo,9,710,6390
+76,2024-10-01,Monitor,Eletrônicos,Brasília,Juliana,2,4512,9024
+77,2024-10-05,Smartphone,Periféricos,São Paulo,Fernanda,8,335,2680
+78,2024-10-09,Mesa Escritório,Móveis,Belo Horizonte,Paulo,9,1933,17397
+79,2024-10-10,Smartphone,Periféricos,Rio de Janeiro,Paulo,4,2572,10288
+80,2024-10-12,Impressora,Móveis,Brasília,Ricardo,1,4392,4392
+81,2024-10-21,Smartphone,Eletrônicos,Rio de Janeiro,Ricardo,3,3401,10203
+82,2024-10-24,Impressora,Periféricos,Belo Horizonte,Fernanda,5,3689,18445
+83,2024-10-26,Fone de Ouvido,Acessórios,Rio de Janeiro,Fernanda,3,1701,5103
+84,2024-10-29,Impressora,Eletrônicos,Rio de Janeiro,Ricardo,8,2707,21656
+85,2024-11-01,Smartphone,Móveis,Rio de Janeiro,Paulo,5,4247,21235
+86,2024-11-03,Mouse,Periféricos,Fortaleza,Ana,3,1807,5421
+87,2024-11-04,Monitor,Periféricos,Rio de Janeiro,Ricardo,4,694,2776
+88,2024-11-06,Smartphone,Acessórios,Belo Horizonte,Juliana,2,3008,6016
+89,2024-11-13,Teclado,Móveis,Rio de Janeiro,Fernanda,8,1538,12304
+90,2024-11-18,Mesa Escritório,Móveis,Belo Horizonte,Paulo,9,2407,21663
+91,2024-11-20,Mouse,Acessórios,Fortaleza,Mariana,7,1109,7763
+92,2024-11-24,Mesa Escritório,Acessórios,Curitiba,Ana,6,1145,6870
+93,2024-12-04,Notebook,Acessórios,Belo Horizonte,Carlos,9,1230,11070
+94,2024-12-06,Teclado,Periféricos,Salvador,Juliana,5,1924,9620
+95,2024-12-07,Mesa Escritório,Eletrônicos,Rio de Janeiro,Paulo,7,4545,31815
+96,2024-12-16,Impressora,Acessórios,Porto Alegre,Fernanda,9,1077,9693
+97,2024-12-25,HD Externo,Periféricos,Brasília,Ana,4,2901,11604
+98,2024-12-26,Cadeira Gamer,Móveis,Salvador,Mariana,9,1809,16281
+99,2024-12-27,HD Externo,Eletrônicos,Fortaleza,Ana,3,334,1002
+100,2024-12-30,Smartphone,Eletrônicos,Brasília,Fernanda,9,3466,31194
