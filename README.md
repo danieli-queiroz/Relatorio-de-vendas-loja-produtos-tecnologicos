@@ -17,7 +17,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a a
 
 ## Análises Realizadas  
 - Faturamento por Produto: identificação dos itens de maior contribuição para a receita, com destaque para impressoras e teclados.  
-- Faturamento por Categoria: participação das categorias no total de vendas, com predominância de periféricos e eletrÔnicos.  
+- Faturamento por Categoria: participação das categorias no total de vendas, com predominância de periféricos e eletrônicos.  
 - Faturamento por Cidade: distribuição geográfica das vendas no território nacional.  
 - Faturamento Mensal: comportamento sazonal das vendas, com picos nos meses de junho, dezembro e janeiro.  
 
