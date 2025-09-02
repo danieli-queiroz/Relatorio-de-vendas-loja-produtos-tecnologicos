@@ -28,9 +28,8 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a a
 ## Estrutura do Projeto  
 ├── README.md # Documentação do projeto  
 ├── Relatório/ # Arquivo do Power BI (.pbix)  
-└── dataset_vendas_2024_anual/ # Base de dados simulada (CSV)  
+└── dataset_vendas_2024_anual/ # Base de dados simulada (CSV)   
 
-dataset/ # Base de dados simulada (CSV)  
 ## Conclusões e Insights  
 - Produtos de maior valor agregado foram responsáveis pela maior parte do faturamento.  
 - O ticket médio elevado indica que os clientes tendem a adquirir itens de maior valor unitário.  
