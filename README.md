@@ -26,9 +26,9 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a a
 - Excel/CSV: simulação e organização da base de dados utilizada.  
 
 ## Estrutura do Projeto  
-├── README.md # Documentação do projeto
+├── README.md # Documentação do projeto  
 ├── Relatório/ # Arquivo do Power BI (.pbix)  
-└── dataset_vendas_2024_anual/ # Base de dados simulada (CSV)
+└── dataset_vendas_2024_anual/ # Base de dados simulada (CSV)  
 
 dataset/ # Base de dados simulada (CSV)  
 ## Conclusões e Insights  
@@ -46,5 +46,7 @@ dataset/ # Base de dados simulada (CSV)
 
 ---
 
-Desenvolvido por Danieli Queiroz
-
+Projeto desenvolvido por Danieli Queiroz.
+Focado em Análise de Dados, BI e Visualização Interativa.
+Linkedln: https://www.linkedin.com/in/danieli-queirozprofissional/
+Obs: Me disponho a tirar qualquer dúvidas, além de sempre aceitar ideias para melhorias :)
