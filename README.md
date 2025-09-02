@@ -23,7 +23,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI para a a
 
 ## Ferramentas Utilizadas  
 - Power BI: desenvolvimento do dashboard e criação de KPIs.  
-- Excel/CSV: simulação e organização da base de dados utilizada.  
+- CSV: simulação e organização da base de dados utilizada.  
 
 ## Estrutura do Projeto  
 ├── README.md # Documentação do projeto  
