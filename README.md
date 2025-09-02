@@ -46,7 +46,7 @@ dataset/ # Base de dados simulada (CSV)
 
 ---
 
-Projeto desenvolvido por Danieli Queiroz.
-Focado em Análise de Dados, BI e Visualização Interativa.
-Linkedln: https://www.linkedin.com/in/danieli-queirozprofissional/
+Projeto desenvolvido por Danieli Queiroz.  
+Focado em Análise de Dados, BI e Visualização Interativa.  
+Linkedln: https://www.linkedin.com/in/danieli-queirozprofissional/  
 Obs: Me disponho a tirar qualquer dúvidas, além de sempre aceitar ideias para melhorias :)
